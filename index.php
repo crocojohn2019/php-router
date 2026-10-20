@@ -1,3 +1,3 @@
 <?php
 
-echo 'Hello routing"
+echo 'Hello routing'
